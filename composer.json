@@ -1,0 +1,19 @@
+{
+  "name": "laocc/fonts",
+  "description": "fonts",
+  "homepage": "https://github.com/laocc/fonts.git",
+  "authors": [
+    {
+      "name": "fazo",
+      "email": "fazo@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">5.4.0"
+  },
+  "autoload": {
+    "files": [
+      "import.php"
+    ]
+  }
+}
